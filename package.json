@@ -1,0 +1,27 @@
+{
+  "name": "mental-health-checkin",
+  "version": "1.0.0",
+  "description": "A website to check in on you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eppelflepp/Mental-Health.git"
+  },
+  "keywords": [
+    "mental-health",
+    "check-in",
+    "support",
+    "friendship",
+    "wellness",
+    "web-app"
+  ],
+  "author": "Eppelflep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eppelflepp/Mental-Health/issues"
+  },
+  "homepage": "https://github.com/Eppelflepp/Mental-Health#readme"
+}
